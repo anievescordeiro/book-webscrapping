@@ -9,4 +9,4 @@ In this notebook you'll find a tour on scrapping a ficticious book webpage (http
 
 After the tutorial notebook on Web Scrapping, you'll see an additional data visualization of the info collected from the site using these amazing visualization tools from Python: Matplotlib, Pandas and Seaborn libraries.
 
-You can try this project interactively at the following Binder link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anievescordeiro/book-webscrapping/main?urlpath=https%3A%2F%2Fgithub.com%2Fanievescordeiro%2Fbook-webscrapping%2Fblob%2Fmain%2FWebScrappingOfBooks.ipynb)
+You can try this project interactively at the following Binder link [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/anievescordeiro-ok-webscrapping-6jhbc2l0/notebooks/WebScrappingOfBooks.ipynb)
